@@ -40,7 +40,7 @@ Temuan valid total: 42 (24 sudah disubmit, 4 ditolak/duplikat, 12 report-only, 4
 
 32. **Cosmos (Immunefi)** — [Immunefi](https://immunefi.com/bug-bounty/cosmos/information/) — HUNT-ONLY: pay-to-submit (fee per laporan dalam USDC, non-refundable) — temuan valid dilaporkan dulu, JANGAN submit/bayar tanpa persetujuan. Maks $50.000, KYC + PoC wajib
 
-## Program Baru Sherlock (28, 22 Nov malam)
+## Program Baru Sherlock (28, 22 Nov malam — verifikasi live SELESAI 23:56 WITA: 28/28 LIVE, 0 tutup; Midas #122 HUNT-ONLY stake-gated; repo 15 program belum terkonfirmasi ulang dari Scope tab)
 
 34. **Usual — Fira UZR (Sherlock #227)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/227) — $7.500.000 · Repo: usual-dao/fira
 35. **Cap (Sherlock #114)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/114) — $1.000.000 · Repo: cap-labs-dev/cap-contracts
@@ -49,7 +49,7 @@ Temuan valid total: 42 (24 sudah disubmit, 4 ditolak/duplikat, 12 report-only, 4
 38. **Babylon (Sherlock #400)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/400) — $500.000 · Repo: babylonlabs-io/babylon
 39. **Paradex (Sherlock #344)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/344) — $500.000 · Repo: Cairo-Security-Clan/Audit-Portfolio
 40. **Fira Protocol (Sherlock #298)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/298) — $500.000 · Repo: usual-dao/fira
-41. **Midas (Sherlock #122)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/122) — $500.000 · Repo: d-xo/weird-erc20
+41. **Midas (Sherlock #122)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/122) — $500.000 · Repo: d-xo/weird-erc20 — HUNT-ONLY (stake-gated: collateral per laporan, per blog Midas — belum terkonfirmasi dari halaman Sherlock; temuan valid dilaporkan dulu, JANGAN submit/bayar tanpa persetujuan)
 42. **Moonwell (Sherlock #350)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/350) — $250.000 · Repo: moonwell-fi/moonwell-contracts-v2
 43. **Scroll (Sherlock #272)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/272) — $250.000 · Repo: Zellic/publications
 44. **Yearn (Sherlock #30)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/30) — $200.000 · Repo: yearn/tokenized-strategy
