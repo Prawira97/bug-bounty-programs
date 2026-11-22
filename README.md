@@ -1,7 +1,7 @@
 # Daftar Program Bug Bounty — Prawira
 
-**Total: 32 program (31 Web3 + 1 Muse/Meta).** Diperbarui 22 Nov 2026.
-10 program baru dari post Shelley @shelleymaeph "21 bug bounties PT.4".
+**Total: 33 program (32 Web3 + 1 Muse/Meta).** Diperbarui 22 Nov 2026.
+10 program baru dari post Shelley @shelleymaeph "21 bug bounties PT.4", + Cosmos sebagai HUNT-ONLY (perintah 22 Nov 20:25 WITA).
 Temuan valid total: 42 (24 sudah disubmit, 4 ditolak/duplikat, 12 report-only, 4 tervalidasi belum disubmit).
 
 ## Program Aktif (31 Web3)
@@ -38,9 +38,11 @@ Temuan valid total: 42 (24 sudah disubmit, 4 ditolak/duplikat, 12 report-only, 4
 30. **Noir Wallet (HackenProof)** — [HackenProof](https://hackenproof.com/programs/noirwallet) — sampai $5.000, program baru Nov 2026, wallet self-custodial Zcash
 31. **XE Network Testnet Bounty** — [Bounty](https://www.test.network/bounty) — sampai 50.000 XE per temuan, dibayar dalam XE saat mainnet launch (belum launch)
 
-## Program ke-32 (terpisah dari Web3)
+32. **Cosmos (Immunefi)** — [Immunefi](https://immunefi.com/bug-bounty/cosmos/information/) — HUNT-ONLY: pay-to-submit (fee per laporan dalam USDC, non-refundable) — temuan valid dilaporkan dulu, JANGAN submit/bayar tanpa persetujuan. Maks $50.000, KYC + PoC wajib
 
-32. **Muse (Meta)** — [Bug Bounty](https://bugbounty.meta.com/) — H6 tier-7 (scheduled-job) disubmit 16 Nov 2026, menunggu triage; perburuan tier-6 habis, lead L1–L6 STOP menunggu persetujuan
+## Program ke-33 (terpisah dari Web3)
+
+33. **Muse (Meta)** — [Bug Bounty](https://bugbounty.meta.com/) — H6 tier-7 (scheduled-job) disubmit 16 Nov 2026, menunggu triage; perburuan tier-6 habis, lead L1–L6 STOP menunggu persetujuan
 
 ## Program yang Sudah Dibuang (8)
 
@@ -49,5 +51,5 @@ Aturan: program yang memungut bayaran per laporan/submit dibuang.
 
 ## Tidak Ditambah dari post Shelley PT.4 (22 Nov 2026)
 
-- **Cosmos (Immunefi)** — TIDAK ditambah: pay-to-submit (peneliti bisa diminta bayar fee per laporan dalam USDC). Melanggar aturan di atas (Quantova dibuang dengan alasan yang sama).
 - **RAAC Audit Contest (Guardian)** — TIDAK ditambah: tidak ada halaman contest live yang ditemukan; yang ada hanya audit Guardian atas RAAC (Okt 2026) dan contest CodeHawks Feb 2025 yang sudah selesai.
+- **Cosmos** — awalnya TIDAK ditambah (pay-to-submit), lalu masuk sebagai HUNT-ONLY atas perintah 22 Nov 20:25 WITA (lihat entri 32).
