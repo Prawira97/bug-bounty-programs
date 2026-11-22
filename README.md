@@ -103,7 +103,7 @@ Temuan valid total: 42 (24 sudah disubmit, 4 ditolak/duplikat, 12 report-only, 4
 89. **Intuition (Immunefi)** — $100.000
 90. **GMTrade (Immunefi)** — $100.000
 91. **StackingDAO (Immunefi)** — $100.000
-92. **Venus / BNB Chain (Immunefi)** — $100.000
+92. **Venus / BNB Chain (Bugcrowd)** — $100.000 (P1 $20.001–$100.000)
 93. **Twyne (Immunefi)** — $50.000
 94. **Hedera (Immunefi)** — $30.000
 95. **The Graph (Immunefi)** — $50.000
