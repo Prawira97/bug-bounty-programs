@@ -1,10 +1,10 @@
 # Daftar Program Bug Bounty — Prawira
 
-**Total: 33 program (32 Web3 + 1 Muse/Meta).** Diperbarui 22 Nov 2026.
-10 program baru dari post Shelley @shelleymaeph "21 bug bounties PT.4", + Cosmos sebagai HUNT-ONLY (perintah 22 Nov 20:25 WITA).
+**Total: 61 program (60 Web3 + 1 Muse/Meta).** Diperbarui 22 Nov 2026 ~23:53 WITA.
+28 program Sherlock baru dari file Prawira (60-programs.txt). (File Prawira menghitung 60 total karena tidak mencantumkan Cosmos hunt-only #32.)
 Temuan valid total: 42 (24 sudah disubmit, 4 ditolak/duplikat, 12 report-only, 4 tervalidasi belum disubmit).
 
-## Program Aktif (31 Web3)
+## Program Aktif (60 Web3)
 
 1. **Uniswap** — [Cantina](https://cantina.xyz/bounties/f9df94db-c7b1-434b-bb06-d1360abdd1be)
 2. **Safe** — [Docs](https://docs.safefoundation.org/security/bug-bounty.md) — TUTUP sampai 1 Des 2026 (masih dicek tiap wave)
@@ -39,6 +39,37 @@ Temuan valid total: 42 (24 sudah disubmit, 4 ditolak/duplikat, 12 report-only, 4
 31. **XE Network Testnet Bounty** — [Bounty](https://www.test.network/bounty) — sampai 50.000 XE per temuan, dibayar dalam XE saat mainnet launch (belum launch)
 
 32. **Cosmos (Immunefi)** — [Immunefi](https://immunefi.com/bug-bounty/cosmos/information/) — HUNT-ONLY: pay-to-submit (fee per laporan dalam USDC, non-refundable) — temuan valid dilaporkan dulu, JANGAN submit/bayar tanpa persetujuan. Maks $50.000, KYC + PoC wajib
+
+## Program Baru Sherlock (28, 22 Nov malam)
+
+34. **Usual — Fira UZR (Sherlock #227)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/227) — $7.500.000 · Repo: usual-dao/fira
+35. **Cap (Sherlock #114)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/114) — $1.000.000 · Repo: cap-labs-dev/cap-contracts
+36. **SYMMIO (Sherlock #5)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/5) — $808.808 · Repo: SYMM-IO/audits
+37. **Aero / MetaDEX03 (Sherlock #437)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/437) — $500.000 · Repo: dromos-labs/metadex-public
+38. **Babylon (Sherlock #400)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/400) — $500.000 · Repo: babylonlabs-io/babylon
+39. **Paradex (Sherlock #344)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/344) — $500.000 · Repo: Cairo-Security-Clan/Audit-Portfolio
+40. **Fira Protocol (Sherlock #298)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/298) — $500.000 · Repo: usual-dao/fira
+41. **Midas (Sherlock #122)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/122) — $500.000 · Repo: d-xo/weird-erc20
+42. **Moonwell (Sherlock #350)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/350) — $250.000 · Repo: moonwell-fi/moonwell-contracts-v2
+43. **Scroll (Sherlock #272)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/272) — $250.000 · Repo: Zellic/publications
+44. **Yearn (Sherlock #30)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/30) — $200.000 · Repo: yearn/tokenized-strategy
+45. **Puffer (Sherlock #355)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/355) — $100.000 · Repo: PufferFinance/Deployments-and-ACL
+46. **USX (Sherlock #273)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/273) — $100.000 · Repo: scroll-tech/usx-contracts
+47. **Mellow Core Vaults (Sherlock #125)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/125) — $100.000
+48. **Seamless Leverage Tokens (Sherlock #82)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/82) — $100.000 · Repo: seamless-protocol/leverage-tokens
+49. **Vesu (Sherlock #384)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/384) — $50.000 · Repo: vesuxyz/vesu-v2
+50. **40acres Finance (Sherlock #102)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/102) — $50.000 · Repo: 40-Acres/loan-contracts
+51. **Napier (Sherlock #11)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/11) — $50.000 · Repo: Napier-Lab/v1-pool
+52. **Flat Money (Sherlock #1)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/1) — $50.000
+53. **Alphix (Sherlock #213)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/213) — $30.000 · Repo: yanisepfl/alphix-public
+54. **Union (Sherlock #12)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/12) — $30.000 · Repo: unioncredit/union-gov-actions
+55. **Rujira (Sherlock #366)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/366) — $25.000 · Repo: Zellic/publications
+56. **Axal TEE & Server (Sherlock #105)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/105) — $25.000
+57. **Monolith Stablecoin Factory (Sherlock #287)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/287) — $20.000 DOLA — BUKAN Mantis Monolith (#19), ini kontes Sherlock terpisah
+58. **Rubicon (Sherlock #77)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/77) — $15.000
+59. **Golem Network (Sherlock #412)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/412) — $10.000 · Repo: golemfactory/golem-certificate
+60. **IOTA (Sherlock #425)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/425) — $5.000 · Repo: iotaledger/iota
+61. **Pinto (Sherlock #221)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/221) — $5.000 · Repo: pinto-org/exchange
 
 ## Program ke-33 (terpisah dari Web3)
 
