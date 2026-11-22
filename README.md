@@ -1,10 +1,10 @@
 # Daftar Program Bug Bounty — Prawira
 
-**Total: 61 program (60 Web3 + 1 Muse/Meta).** Diperbarui 22 Nov 2026 ~23:53 WITA.
-28 program Sherlock baru dari file Prawira (60-programs.txt). (File Prawira menghitung 60 total karena tidak mencantumkan Cosmos hunt-only #32.)
+**Total: 109 program (108 Web3 + 1 Muse/Meta).** Diperbarui 23 Nov 2026 ~00:12 WITA.
+48 program baru dari pencarian GitHub + DevGrants (verifikasi live 23 Nov 00:12 WITA: 48/48 LIVE).
 Temuan valid total: 42 (24 sudah disubmit, 4 ditolak/duplikat, 12 report-only, 4 tervalidasi belum disubmit).
 
-## Program Aktif (60 Web3)
+## Program Aktif (108 Web3)
 
 1. **Uniswap** — [Cantina](https://cantina.xyz/bounties/f9df94db-c7b1-434b-bb06-d1360abdd1be)
 2. **Safe** — [Docs](https://docs.safefoundation.org/security/bug-bounty.md) — TUTUP sampai 1 Des 2026 (masih dicek tiap wave)
@@ -70,6 +70,57 @@ Temuan valid total: 42 (24 sudah disubmit, 4 ditolak/duplikat, 12 report-only, 4
 59. **Golem Network (Sherlock #412)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/412) — $10.000 · Repo: golemfactory/golem-certificate
 60. **IOTA (Sherlock #425)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/425) — $5.000 · Repo: iotaledger/iota
 61. **Pinto (Sherlock #221)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/221) — $5.000 · Repo: pinto-org/exchange
+
+## Program Baru (48, 23 Nov dini hari — pencarian GitHub + DevGrants; 48/48 LIVE per verifikasi 23 Nov 00:12 WITA; repo scope belum terkonfirmasi untuk sebagian besar — hunter verifikasi via Scope tab sebelum hunt)
+
+62. **Flying Tulip (Sherlock #248)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/248) — $1.000.000
+63. **Sherlock (Sherlock #17)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/17) — $500.000
+64. **Sport.Fun (Sherlock #100)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/100) — $250.000
+65. **Tenor Labs (Sherlock #407)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/407) — $200.000
+66. **Satlayer (Sherlock #50)** — [Sherlock](https://audits.sherlock.xyz/bug-bounties/50) — $200.000
+67. **USDT0 (Immunefi)** — $6.000.000 · [Verifikasi](https://devgrantsdaily.com/items/2026-09-17-usdt0-bug-bounty/)
+68. **Stargate (Immunefi)** — $3.500.000 · [Verifikasi](https://devgrantsdaily.com/items/2026-10-11-stargate-bug-bounty-immunefi/)
+69. **LayerZero (Immunefi)** — $3.500.000 · [Verifikasi](https://devgrantsdaily.com/items/2026-10-09-layerzero-bug-bounty-immunefi/)
+70. **Chainlink (Immunefi)** — $3.000.000 · [Verifikasi](https://devgrantsdaily.com/items/2026-10-12-chainlink-bug-bounty-immunefi/)
+71. **Ethena (Immunefi)** — $3.000.000 · [Verifikasi](https://devgrantsdaily.com/items/2026-09-18-ethena-bug-bounty-immunefi/)
+72. **Compound Finance (Immunefi)** — $1.000.000 · [Verifikasi](https://devgrantsdaily.com/items/2026-10-12-compound-finance-bug-bounty/)
+73. **Gnosis Chain (Immunefi)** — $2.000.000
+74. **Paxos Labs (Immunefi)** — $500.000
+75. **1inch Smart Contracts (Immunefi)** — $500.000
+76. **ENS (Immunefi)** — $250.000
+77. **Stacks (Immunefi)** — $250.000
+78. **sBTC / Stacks (Immunefi)** — $250.000
+79. **SSV Network (Immunefi)** — $250.000
+80. **Lombard Finance (Immunefi)** — $500.000
+81. **deBridge (Immunefi)** — $200.000
+82. **Enzyme Onyx (Immunefi)** — $200.000
+83. **Alchemix (Immunefi)** — $150.000
+84. **Folks Finance (Immunefi)** — $100.000, deadline 31 Des 2026
+85. **1inch Aqua (Immunefi)** — $100.000
+86. **OnRe (Immunefi)** — $100.000
+87. **Silo Finance (Immunefi)** — $100.000
+88. **Extra Finance (Immunefi)** — $100.000
+89. **Intuition (Immunefi)** — $100.000
+90. **GMTrade (Immunefi)** — $100.000
+91. **StackingDAO (Immunefi)** — $100.000
+92. **Venus / BNB Chain (Immunefi)** — $100.000
+93. **Twyne (Immunefi)** — $50.000
+94. **Hedera (Immunefi)** — $30.000
+95. **The Graph (Immunefi)** — $50.000
+96. **Immunefi (Immunefi)** — $50.000
+97. **SP1 / Succinct (Immunefi)** — $15.000
+98. **Horizen (Immunefi)** — $10.000
+99. **LI.FI (Cantina)** — $1.000.000 · Target: lifinance/contracts · [Info](https://bugbounty.fyi/companies/li.fi)
+100. **Aztec Network (Cantina)** — $50.000 · [Info](https://www.cantina.website/blog/aztec-network-bug-bounty-on-cantina)
+101. **Starknet (HackenProof)** — $250.000 — butuh reputasi HackenProof ≥100 (akun 0, sama seperti BTSE/BloFin)
+102. **Current Finance (HackenProof)** — $15.000 — reputasi ≥100
+103. **Cronos Ult (HackenProof)** — $20.000 — reputasi ≥150
+104. **Hinkal (HackenProof)** — $10.000 — reputasi ≥150
+105. **Hotcoin (HackenProof)** — $2.000 — reputasi ≥150
+106. **Arc / Circle (HackerOne)** — $200.000
+107. **Firedancer / Jump Crypto** — $50.000–$100.000 (Critical base; boost 2x/3x berakhir 20 Nov) — GitHub sign-in, repo firedancer-io/firedancer
+108. **Solana Mobile** — $75.000 (dalam SKR) — via portal keamanan Solana Mobile
+109. **DAWN / USD.infra Vault** — $50.000 — PoC wajib tiap severity
 
 ## Program ke-33 (terpisah dari Web3)
 
