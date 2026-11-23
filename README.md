@@ -126,7 +126,7 @@ Temuan valid total: 42 (24 sudah disubmit, 4 ditolak/duplikat, 12 report-only, 4
 
 110. **Coinbase / Base (Cantina)** — $5.000.000 — KYC wajib; scope: semua kontrak mainnet Coinbase + kontrak Base (Tier 0/Tier 1); Critical $5jt, High $500rb, Medium $50rb, Low $5rb — [Cantina](https://cantina.xyz/bounties/55316f42-3c5e-4746-9bd0-0f18dcbc344b)
 111. **Cetus Smart Contracts (HackenProof)** — $1.000.000 — Sui Move CLMM + DLMM; Critical 10% dana berisiko, cap $1jt; KYC — [HackenProof](https://hackenproof.com/programs/cetus-smart-contracts)
-112. **NEAR Protocol (HackenProof)** — $1.000.000 — HANYA codebase nearcore (Rust); KYC bisa diminta saat payout; payout bisa dalam NEAR — [HackenProof](https://hackenproof.com/programs/near-protocol)
+112. **NEAR Protocol (HackenProof)** — $1.000.000 — HANYA codebase nearcore (Rust); KYC bisa diminta saat payout; payout bisa dalam NEAR — **HUNT-ONLY** (keputusan Prawira 23 Nov 17:49; fee submit $10/report + gate reputasi 100, JANGAN submit) — [HackenProof](https://hackenproof.com/programs/near-protocol)
 
 ## Program ke-33 (terpisah dari Web3)
 
