@@ -1,10 +1,10 @@
 # Daftar Program Bug Bounty — Prawira
 
-**Total: 109 program (108 Web3 + 1 Muse/Meta).** Diperbarui 23 Nov 2026 ~00:12 WITA.
+**Total: 112 program (111 Web3 + 1 Muse/Meta).** Diperbarui 23 Nov 2026 ~17:35 WITA — 3 program baru (Coinbase, Cetus, NEAR) dari scout, tanpa fee submit.
 48 program baru dari pencarian GitHub + DevGrants (verifikasi live 23 Nov 00:12 WITA: 48/48 LIVE).
 Temuan valid total: 42 (24 sudah disubmit, 4 ditolak/duplikat, 12 report-only, 4 tervalidasi belum disubmit).
 
-## Program Aktif (108 Web3)
+## Program Aktif (111 Web3)
 
 1. **Uniswap** — [Cantina](https://cantina.xyz/bounties/f9df94db-c7b1-434b-bb06-d1360abdd1be)
 2. **Safe** — [Docs](https://docs.safefoundation.org/security/bug-bounty.md) — TUTUP sampai 1 Des 2026 (masih dicek tiap wave)
@@ -121,6 +121,12 @@ Temuan valid total: 42 (24 sudah disubmit, 4 ditolak/duplikat, 12 report-only, 4
 107. **Firedancer / Jump Crypto** — $50.000–$100.000 (Critical base; boost 2x/3x berakhir 20 Nov) — GitHub sign-in, repo firedancer-io/firedancer
 108. **Solana Mobile** — $75.000 (dalam SKR) — via portal keamanan Solana Mobile
 109. **DAWN / USD.infra Vault** — $50.000 — PoC wajib tiap severity
+
+### Program Baru (3, 23 Nov sore — scout, diverifikasi live ~17:25 WITA, tanpa fee submit)
+
+110. **Coinbase / Base (Cantina)** — $5.000.000 — KYC wajib; scope: semua kontrak mainnet Coinbase + kontrak Base (Tier 0/Tier 1); Critical $5jt, High $500rb, Medium $50rb, Low $5rb — [Cantina](https://cantina.xyz/bounties/55316f42-3c5e-4746-9bd0-0f18dcbc344b)
+111. **Cetus Smart Contracts (HackenProof)** — $1.000.000 — Sui Move CLMM + DLMM; Critical 10% dana berisiko, cap $1jt; KYC — [HackenProof](https://hackenproof.com/programs/cetus-smart-contracts)
+112. **NEAR Protocol (HackenProof)** — $1.000.000 — HANYA codebase nearcore (Rust); KYC bisa diminta saat payout; payout bisa dalam NEAR — [HackenProof](https://hackenproof.com/programs/near-protocol)
 
 ## Program ke-33 (terpisah dari Web3)
 
